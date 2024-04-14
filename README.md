@@ -32,6 +32,19 @@ Microservicio WasteManagerService
 
 + Este microservicio controla todas las funcionalidades correspondientes al manejo de la informacion de la Waste Manager y Waste Center Authorization
 
+# Requisitos previos
+
+Antes de ejecutar el proyecto, asegúrese de tener instalado lo siguiente:
+
++ Java Development Kit (JDK 17)
++ IntelliJ IDEA o el IDE de su preferencia
++ Maven
+
+# Obtener
+
+Clonar el repositorio
+``git clone https://github.com/lfernandz/test-app.git``
+
 # Ejecución
 
 Para la ejecución, debemos iniciar primeramente el microservicio CLoudConfigServer,
